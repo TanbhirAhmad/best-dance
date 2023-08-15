@@ -2,7 +2,14 @@
 module.exports = {
   content: ['*'],
   theme: {
-    extend: {},
+    extend: {
+      spacing: {
+        '128': '975px',
+      },
+      fontFamily: {
+        'Oswald': ['Oswald'],
+      },
+    },
   },
   plugins: [],
 }
