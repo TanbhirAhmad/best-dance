@@ -10,6 +10,9 @@ module.exports = {
         'Oswald': ['Oswald'],
         'Montserrat': ['Montserrat'],
       },
+      backgroundImage: {
+        'bg-banner': "url('/images/bg-banner.jpg')",
+      }
     },
   },
   plugins: [],
