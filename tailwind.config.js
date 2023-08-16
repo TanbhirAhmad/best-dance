@@ -12,6 +12,7 @@ module.exports = {
       },
       backgroundImage: {
         'bg-banner': "url('/images/bg-banner.jpg')",
+        'review': "url('/images/review-image.jpg')",
       }
     },
   },
